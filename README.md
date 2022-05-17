@@ -1,10 +1,10 @@
 # Clock-App
 This is a simple clock app made using Tkinter which is the standard Python interface to the Tcl/Tk GUI toolkit.
 
-Modules Required:
-1. Tkinter:
-    Install using command -> pip install tkinter
-2. time:
+# Modules Required:
+## Tkinter:
+    Preinstalled with python
+## time:
     Preinstalled with python
 
 Refer:
